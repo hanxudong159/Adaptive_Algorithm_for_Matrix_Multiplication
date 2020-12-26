@@ -8,7 +8,7 @@
 ### Matrix multiplication:
 - `square_matrix_multiply()`
 
-- `strassen_multiply()`: This function essentially calls the following three different matrix multiplications
+- `strassen_multiply()`
 
 - `strassen_matrix()`
 
