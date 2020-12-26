@@ -1,7 +1,6 @@
 # Adaptive_Algorithm_for_Matrix_Multiplication
 
 > Matrix multiplication is one of the basic algorithms in computer science. Many kinds of algorithms for matrix multiplication have been developed to pursue faster speed and better quality. In this project, we will compare the brute-force algorithm, Strassen’s algorithm and the optimized Strassen’s algorithm, and conclude an algorithm that can choose the appropriate method according to the matrix situation.
----
 
 ## Matrix.java:
 `Matrix()`: Constructor
