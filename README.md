@@ -5,36 +5,63 @@ Matrix multiplication is one of the basic algorithms in computer science. Many k
 
 ## Matrix.java:
 `Matrix()`: Constructor
+
 ### Matrix multiplication:
 `square_matrix_multiply()`
+
 `strassen_multiply()`: This function essentially calls the following three different matrix multiplications
+
 `strassen_matrix()`
+
 `strassen_optimization_array()`
+
 `strassen_multithreading()`
+
 `calibrate_crossover_point()`
+
 `adaptive_multiply()`
+
 ### Auxiliary function:
 `getValueAt()`
+
 `setValueAt()`
+
 `getMatrixAt()`
+
 `toString()`
+
 `show()`
+
 `RandomMatrix()`
+
 `RandomNum()`
+
 ### Auxiliary functions for computing operations with Matrix:
 `partitionMatrix()`
+
 `mergeMatrix()`
+
 `plus()`
+
 `minus()`
+
 ### Auxiliary functions for arithmetic operations using arrays:
-`strassen_array()`
-`square()`
-`parti()`
-`merge()`
-`plusp()`
-`minusp()`
-`minusspec()`
-`plusspec()`
+- `strassen_array()`
+
+- `square()`
+
+- `parti()`
+
+- `merge()`
+
+- `plusp()`
+
+- `minusp()`
+
+- `minusspec()`
+
+- `plusspec()`
+
 ### Helper functions and classes for multithreading:
 class `MyTask`
 class `Applyer`
